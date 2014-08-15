@@ -1,0 +1,16 @@
+{
+  "name": "Trekker.server",
+  "version": "0.0.0",
+  "description": "Trekker.server",
+  "main": "server.js",
+  "author": {
+    "name": "Asaf",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.7.2",
+    "mongoskin": "^1.4.4",
+    "body-parser": "^1.5.2",
+    "fs.js": "0.0.1"
+  }
+}
